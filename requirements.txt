@@ -1,0 +1,14 @@
+numpy
+pandas
+ipykernel
+langchain
+langchain-groq
+langchain-community
+langchain-core
+dotenv
+chromadb
+beautifulsoup4
+requests
+streamlit
+playwright #(for dynamic page content)
+unstructured
