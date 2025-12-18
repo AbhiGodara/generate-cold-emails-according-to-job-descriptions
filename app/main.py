@@ -16,7 +16,7 @@ def run_app():
     st.title("📧 Cold Email Generator (GenAI System)")
 
     url = st.text_input(
-        "Enter a job posting URL",
+        "Enter a job posting URL(enter static Page URL only):",
         value="https://jobs.nike.com/job/R-33460"
     )
 
